@@ -1,1 +1,1 @@
-"X:\test"
+w:\proj\phoenix_release_msix\workingdirectory\UWP\MSIXVC\MsixvcPackage\Zip\

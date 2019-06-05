@@ -1,1 +1,1 @@
-upload 25gb zip test
+release msixvc
