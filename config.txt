@@ -1,1 +1,1 @@
-release msixvc
+release msixvc test0
